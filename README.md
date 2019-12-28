@@ -5,3 +5,7 @@ Welcome. If you're here, you probably hate MacManage. What is MacManage? MacMana
 This AppleScript will run every 15 minutes, and will remove MacManage from the dock.
 
 To make this work, you'll need to go into `killMacManage.plist` and edit line 11 to your Mac's username.
+
+Then, add `killMacManage.plist` to Users/YOURUSERNAME/Library/LaunchAgents.
+
+Enjoy.
